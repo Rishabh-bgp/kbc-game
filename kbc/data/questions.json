@@ -1,0 +1,411 @@
+{
+  "questions": [
+    {
+      "difficulty": "easy",
+      "question": "What is the capital of India?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many days are there in a leap year?",
+      "options": [
+        "364",
+        "365",
+        "366",
+        "367"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which is the national animal of India?",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Bengal Tiger",
+        "Peacock"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Saturn"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many players does a cricket team have on the field?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which festival is popularly called the 'Festival of Lights'?",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Pongal"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "H2O is the chemical formula of which substance?",
+      "options": [
+        "Water",
+        "Hydrogen peroxide",
+        "Salt",
+        "Oxygen"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which gas do plants absorb from the air for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many colours are there in a rainbow?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "In which city is the Taj Mahal located?",
+      "options": [
+        "Agra",
+        "Jaipur",
+        "Lucknow",
+        "Delhi"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which is the national bird of India?",
+      "options": [
+        "Parrot",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who wrote India's national anthem, 'Jana Gana Mana'?",
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Sarojini Naidu",
+        "Rabindranath Tagore",
+        "Subramania Bharati"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "In which year did India gain independence?",
+      "options": [
+        "1942",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which is the smallest planet in our solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri",
+        "Dr. Rajendra Prasad"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Tamil Nadu",
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Gujarat"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which is the hardest naturally occurring substance?",
+      "options": [
+        "Iron",
+        "Diamond",
+        "Quartz",
+        "Granite"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is popularly known as the 'Missile Man of India'?",
+      "options": [
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "A. P. J. Abdul Kalam",
+        "Satish Dhawan"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which vitamin does the skin produce when exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which city hosted the first modern Olympic Games in 1896?",
+      "options": [
+        "Paris",
+        "Athens",
+        "London",
+        "Rome"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the currency of Japan?",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Ringgit"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Spain",
+        "Italy"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which is the longest river flowing within India?",
+      "options": [
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Narmada"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which Indian physicist won the 1930 Nobel Prize in Physics for his work on the scattering of light?",
+      "options": [
+        "Homi J. Bhabha",
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "Meghnad Saha"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which Mughal emperor built the Red Fort in Delhi?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Aurangzeb",
+        "Shah Jahan"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the SI unit of electric charge?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Coulomb",
+        "Ohm"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which chemical element has the atomic number 26?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Zinc",
+        "Nickel"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What was the name of India's first satellite, launched in 1975?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara",
+        "Rohini",
+        "INSAT-1A"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which article of the Indian Constitution abolishes untouchability?",
+      "options": [
+        "Article 14",
+        "Article 17",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who was the first woman President of India?",
+      "options": [
+        "Indira Gandhi",
+        "Sarojini Naidu",
+        "Pratibha Patil",
+        "Sushma Swaraj"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which mission made India the first country to land near the Moon's south pole, in 2023?",
+      "options": [
+        "Chandrayaan-1",
+        "Mangalyaan",
+        "Chandrayaan-2",
+        "Chandrayaan-3"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "hard",
+      "question": "In which year was the Battle of Plassey fought?",
+      "options": [
+        "1526",
+        "1757",
+        "1857",
+        "1764"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Kathakali is a classical dance form from which state?",
+      "options": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Odisha",
+        "Manipur"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who composed the national song 'Vande Mataram'?",
+      "options": [
+        "Rabindranath Tagore",
+        "Muhammad Iqbal",
+        "Bankim Chandra Chattopadhyay",
+        "Sri Aurobindo"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which is the largest gland in the human body?",
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Liver",
+        "Pituitary"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Approximately how fast does light travel in a vacuum?",
+      "options": [
+        "3 × 10^5 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s"
+      ],
+      "answer": 2
+    }
+  ]
+}
